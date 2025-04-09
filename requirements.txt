@@ -3,4 +3,6 @@ langchain
 streamlit
 python-env
 PyPDF2
-
+pandas
+langchain_community
+-e .
