@@ -6,7 +6,7 @@ An AI-powered application that automatically generates multiple-choice questions
 ---
 
 ## 📸 Screenshot
-![App Screenshot](assets/app_screenshot.png)
+![App Screenshot](![Alt text](image.png))
 
 ---
 
