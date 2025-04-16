@@ -1,8 +1,17 @@
-openai
-langchain
+# openai
+# langchain
+# streamlit
+# python-env
+# PyPDF2
+# pandas
+# langchain_community
+
+
 streamlit
-python-env
-PyPDF2
 pandas
-langchain_community
+python-dotenv
+PyPDF2
+langchain
+langchain-openai
+openai
 -e .
