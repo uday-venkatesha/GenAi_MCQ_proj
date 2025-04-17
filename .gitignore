@@ -2,3 +2,5 @@ env
 .env
 logs
 .streamlit/secrets.toml
+test.py
+src/mcqgenerator/__pycache__/mcqgenerator.cpython-38.pyc
