@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 import traceback
 from src.mcqgenerator.mcqgenerator import generate_evaluate_chain
 from src.mcqgenerator.utils import read_file, get_table_data
+openai_api_key = st.secrets["OPENAI_API_KEY"]
 
 # Set page configuration
 st.set_page_config(
